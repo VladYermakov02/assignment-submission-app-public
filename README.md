@@ -1,7 +1,7 @@
 # Assignment Submission App
 
 ## Information about the app
-The functional purpose of the app is to help teachers and students of online schools or universities to track the assignments. Students can have assignments assiged to them and when they complete them they send the response to the teacher assigned to the task. Whereas the teacher checks the assignment and then can either send it back if something is wrong or mark it as completed. Also, teachers themselves decide which assignments to pick. On the page of every assignment there is info about assignment (shown and described on the third screenshot) and there teacher and student can chat through comments.
+The functional purpose of the app is to help teachers and students at online schools or universities to track the assignments. Students can have assignments assigned to them and when they complete them, they send the response to the teacher assigned to the task. Whereas the teacher checks the assignment and then can either send it back if something is wrong or mark it as completed. Also, teachers themselves decide which assignments to pick. On the page of every assignment there is info about assignment (shown and described on the third screenshot) and there teacher and student can chat through comments.
 
 ## Technologies used
 ### Backend:
